@@ -1,4 +1,4 @@
-# Music-Web-Player
+# MP3-Music-Web-Player
 
 Function:
 
